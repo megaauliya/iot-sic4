@@ -3,7 +3,7 @@ import paho.mqtt.client as mqtt
 # define static variable
 # broker = "localhost" # for local connection
 broker = "test.mosquitto.org"  # for online version
-port = 1883
+port = 1800 #1883
 timeout = 600
 
 username = ''
